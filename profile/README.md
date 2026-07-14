@@ -10,9 +10,9 @@ We provide lightweight SDKs, developer tools, MCP servers, and production-ready 
 
 ## 🚀 Getting Started
 
+* **Documentation:** https://meshkit-docs.vercel.app/
 * **MeshKit SDK (npm):** https://www.npmjs.com/package/@ipfs-meshkit/meshkit
 * **MeshKit MCP Server (npm):** https://www.npmjs.com/package/@ipfs-meshkit/mcp
-* **Documentation:** https://meshkit-docs.vercel.app/
 * **py-ipfs-lite (Python):** https://github.com/IPFS-Meshkit/py-ipfs-lite
 * **MeshKit Test Bed (Distributed Quantum Services):** https://ipfs-meshkit.vercel.app/
 
