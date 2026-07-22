@@ -100,8 +100,8 @@ The lightweight MeshKit runtime powers a growing collection of iOS applications,
 * 👨‍⚕️ Patient Sheet
 * 🏥 Medical Suite
 * 🧾 Retail Invoice
-
-Additional applications—including **Medical Requisition Statement** and **Repair Work Order Requisition Statement**—are currently in the final stages of App Store review.
+* 🧾 Medical Requisition Statement
+* 🧾 Requisition Statement
 
 ---
 
