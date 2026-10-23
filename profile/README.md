@@ -87,7 +87,7 @@ https://ipfs-meshkit.vercel.app/
 
 ---
 
-## 📱 Applications
+## 📱 IPFS Applications via Pinata 
 
 The lightweight MeshKit runtime powers a growing collection of iOS applications, including:
 
